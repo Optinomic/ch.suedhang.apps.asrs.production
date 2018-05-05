@@ -19,7 +19,7 @@ website = http://suedhang.ch/de/
 
 [template ASRS 6 12]
 __opapp_include(lib/polymer/index.m4)
-__opapp_include(../ch.suedhang.apps.asrs/elements/element-asrs.html)
+__opapp_include(ch.suedhang.apps.asrs/elements/element-asrs.html)
 __opapp_include(elements/view.html)
 
 
