@@ -7,7 +7,7 @@ version = __opapp_version()
 type = patient
 
 [description]
-Ausgangspunkt zur Erkennung der Anzeichen/Symptome der Erwachsenen-ADHS
+Ausgangspunkt zur Erkennung der Anzeichen/Symptome der Erwachsenen-ADHS.
 
 [developer]
 first_name = Nora
